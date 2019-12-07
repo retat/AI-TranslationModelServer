@@ -22,3 +22,6 @@ And the response will look like that:
     "line": "5"
 }
 ```
+
+## Credit
+This project was created by Alexander Antaya, Brent Gilmore, Patrick Klaiber and René Borner in the context of the Artificial Intelligence lecture at WPI in 2019.
